@@ -1,13 +1,7 @@
-Here’s a well-structured **README.md** draft that combines your code, results, and details from your PDF presentation.
-
----
-
 # 🧪 Particle Physics Event Classification
 
 Distinguishing rare **Higgs-boson signal events** from overwhelming **background noise** in proton–proton collisions at CERN.
 This project builds a robust machine-learning pipeline that leverages **ensemble learning (stacking)** to classify events using rich kinematic features from detector data.
-
-📄 [More about the Higgs Boson (CERN)](https://home.cern/science/physics/higgs-boson#:~:text=Physicists%20look%20for%20traces%20of,particle%27s%20faint%20signal%20in%202012)
 
 ---
 
